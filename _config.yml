@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "en-us"
 title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Dog Paw"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/fox.jpg"
   bio              : "개발자가 되고 싶은 개발이"
   location         : "Seoul, Korea"
-  email            : "milokjg@naver.com"
+  email            : #"milokjg@naver.com"
   links:
-    - label: "Email"
+    - label: "milokjg@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:milokjg@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,7 +114,7 @@ author:
     - label: "dxsxgxnxxr"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dxsxgxnxxr"
-    - label: "Instagram"
+    - label: "dxsxgxnxxr"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
