@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Series"
-    url: /series/
+    url: /categories/
   - title: "Tags"
     url: /tags/
   # - title: "Sample Posts"
