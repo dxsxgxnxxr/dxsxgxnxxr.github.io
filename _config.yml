@@ -93,10 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dog Paw"
-  avatar           : "/assets/images/fox.jpg"
-  bio              : "개발자가 되고 싶은 개발이"
-  url: "https://dxsxgxnxxr.github.io/about/"
+  name             : "dxsxgxnxxr"
+  avatar           : "/assets/images/daeman.png"
+  bio              : "포기를 모르는 남자"
   location         : "Seoul, Korea"
   email            : #"milokjg@naver.com"
   links:
