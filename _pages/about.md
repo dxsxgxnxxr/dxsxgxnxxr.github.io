@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2020-10-28T14:51:23-04:00
+excerpt: "about me"
+last_modified_at: 2020-12-19
 ---
 
 SLAM을 공부합니다.
